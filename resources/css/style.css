@@ -1,0 +1,16 @@
+html {
+    text-align: center;
+    background-color: black;
+}
+
+#headline {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+#download {
+    color: aquamarine;
+    font-size: 16px;
+}
